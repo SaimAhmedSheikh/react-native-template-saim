@@ -1,0 +1,23 @@
+{
+  "name": "@saimahmedsheikh/react-native-template-saim",
+  "version": "1.0.0",
+  "description": "react-native-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaimAhmedSheikh/react-native-template-saim.git"
+  },
+  "keywords": [
+    "react-native",
+    "template"
+  ],
+  "author": "Saim Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaimAhmedSheikh/react-native-template-saim/issues"
+  },
+  "homepage": "https://github.com/SaimAhmedSheikh/react-native-template-saim#readme"
+}
